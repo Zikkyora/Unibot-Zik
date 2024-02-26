@@ -1,0 +1,2 @@
+# Unibot-Zik
+testnet
